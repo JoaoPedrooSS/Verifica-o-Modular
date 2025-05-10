@@ -40,12 +40,12 @@ Resultado final: a^x mod n1
 - Terminal Linux, WSL ou similar
 - Ou use um compilador online (ex: [https://onecompiler.com/c](https://onecompiler.com/c))
 
-### 🔧 Compilação
+### 🔧 Compilação e execução
 
 No terminal, execute:
 
 ```bash
-gcc q9.c -o q9
+gcc -o q9 q9.c
 
 ./q9
 
