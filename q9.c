@@ -87,6 +87,7 @@ int main() {
     int H, G, n, x, n1;
     
     printf("=== Programa de Verificacao Modular ===\n");
+    printf("Aluno: Joao pedro Silva Sousa - 222006258\n");
     printf("Digite os valores de entrada:\n");
     printf("H: "); scanf("%d", &H);
     printf("G: "); scanf("%d", &G);
