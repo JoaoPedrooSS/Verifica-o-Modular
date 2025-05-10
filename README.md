@@ -2,7 +2,7 @@
 
 Este projeto implementa um verificador modular em linguagem C, desenvolvido como parte da Avaliação P1 da disciplina **Matemática Discreta II** (T03) da Universidade de Brasília — FGA.
 
-Nome: João Pedro Silva Sousa
+Nome: João Pedro Silva Sousa <br>
 matrícula: 222006258
 
 O programa realiza operações modulares envolvendo:
